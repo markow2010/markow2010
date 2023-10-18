@@ -60,10 +60,6 @@ I am Markow Moussa, a computer science student with a passion for innovation and
   - - Performed routine maintenance
   - - Respected privacy and documented the process
 
-<div width="250px">
-<img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width=250px/>
-</div>
-
 ## Education
 
 - 🎓 Bachelor of Science in Computer Science
