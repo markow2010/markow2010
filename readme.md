@@ -101,10 +101,10 @@ I am Markow Moussa, a computer science student with a passion for innovation and
 
 ## 📈 Github stats
 <a href="https://github.com/markow2010/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=markow2010" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=markow2010&card_width=250" />
 </a>
 <a href="https://github.com/markow2010/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=markow2010&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=markow2010&layout=compact&langs_count=8&card_width=250" />
 </a>
 
 ## Connect with me:
