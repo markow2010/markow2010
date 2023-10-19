@@ -29,37 +29,6 @@ I am Markow Moussa, a computer science student with a passion for innovation and
   - December 2022
   - Murfreesboro, TN
 
-- 💼 **615.FireSales**
-  - Online/Retail Seller
-  - December 2021 - Current
-  - Murfreesboro, TN
-  - - Owner/Operator
-  - - Marketing strategist
-  - - Data Analyst
-  - - Increased sales by 42% monthly
-  - - Increased engagement on social media account to over 1500%
-  - - Inventory management
-
-- 💼 **McDonald’s Manager**
-  - Shift Manager
-  - October 2018 - December 2021
-  - La Vergne, TN
-  - - Trained and mentored new employees
-  - - Attentive to customer complaints
-  - - Reduced waste by 20% each year to increase profit margin
-  - - Optimized kitchen process for greater efficiency
-  - - Collaborated with other departments
-
-- 💼 **Wolverine Computer Repair**
-  - Volunteer Help (Full Time)
-  - August 2017 - May 2020
-  - La Vergne, TN
-  - - Desktop and Laptop repairs
-  - - Information Acquisition
-  - - Troubleshooting
-  - - Performed routine maintenance
-  - - Respected privacy and documented the process
-
 ## Education
 
 - 🎓 Bachelor of Science in Computer Science
@@ -129,6 +98,14 @@ I am Markow Moussa, a computer science student with a passion for innovation and
 - 🏆 DECA Club
 - 🏆 CompTIA - IT Fundamentals
 - 🏆 Dell Certification - Client Course
+
+## 📈 Github stats
+<a href="https://github.com/markow2010/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=markow2010" />
+</a>
+<a href="https://github.com/markow2010/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=markow2010&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## Connect with me:
 
