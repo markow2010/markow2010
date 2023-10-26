@@ -1,6 +1,7 @@
 <img src="./Assets/banner.png" />
 
-# Hi there! 👋 <a href="https://drive.google.com/file/d/190el3kcyvrLLXGr1hBLaQEjUe7o8m8rZ/view?usp=sharing" style="text-decoration: none; padding: 10px 20px; background-color: #fff; border: 1px solid #3498db; color: #3498db; border-radius: 5px; text-align: center; display: inline-block;">Download Resume</a>
+# Hi there! 👋 <a href="https://drive.google.com/file/d/190el3kcyvrLLXGr1hBLaQEjUe7o8m8rZ/view?usp=sharing" style="text-decoration: none; padding: 10px 20px; background-color: #3498db; color: #fff; border-radius: 5px; border: 1px solid #3498db; text-align: center; display: inline-block;">Download Resume</a>
+
 
 
 
