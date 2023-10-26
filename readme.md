@@ -1,6 +1,7 @@
 <img src="./Assets/banner.png" />
 
-# Hi there! 👋 <a href="https://drive.google.com/file/d/190el3kcyvrLLXGr1hBLaQEjUe7o8m8rZ/view?usp=sharing" style="text-decoration: none; padding: 10px 20px; background-color: #3498db; color: #fff; border-radius: 5px; font-weight: bold; text-align: center; display: inline-block;">Download Resume</a>
+# Hi there! 👋 <a href="https://drive.google.com/file/d/190el3kcyvrLLXGr1hBLaQEjUe7o8m8rZ/view?usp=sharing" style="text-decoration: none; padding: 10px 20px; background-color: #fff; border: 1px solid #3498db; color: #3498db; border-radius: 5px; text-align: center; display: inline-block;">Download Resume</a>
+
 
 
 I am Markow Moussa, a computer science student with a passion for innovation and technology. My experience encompasses programming, computer and server construction, design, and rigorous testing, including mining rigs. My knowledge encompasses Web 3.0 and the Metaverse. I am proficient in more than five programming languages, with exceptional knowledge of C++ and Python. In addition, I am bilingual, speaking English and Arabic fluently.🌐
