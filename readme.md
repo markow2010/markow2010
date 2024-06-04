@@ -5,8 +5,7 @@
 
 
 
-I am Markow Moussa, a computer science student with a passion for innovation and technology. My experience encompasses programming, computer and server construction, design, and rigorous testing, including mining rigs. My knowledge encompasses Web 3.0 and the Metaverse. I am proficient in more than five programming languages, with exceptional knowledge of C++ and Python. In addition, I am bilingual, speaking English and Arabic fluently.🌐
-
+Motivated Computer Science graduate seeking a challenging engineering role to leverage my technical expertise and innovative problem-solving skills. Eager to contribute to organizational success by implementing creative solutions and ensuring top-tier performance in project execution.
 
 
 ## About Me
