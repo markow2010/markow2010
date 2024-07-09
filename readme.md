@@ -21,15 +21,44 @@ Motivated Computer Science graduate seeking a challenging engineering role to le
 
 ## Experience
 
+- 💼 **Freelancing Work / Web Developer, Graphic Designer, AV Technician**
+  - May 2021- Current
+  - Web Development: Designed and developed responsive websites using HTML, CSS, JavaScript, and various web frameworks, 
+    ensuring optimal performance and user experience.  
+  - Graphic Design: Created visually compelling graphics and layouts for websites, marketing materials, and social media, utilizing tools 
+    such as Adobe Photoshop, Illustrator, and InDesign.
+  - AV Technician: Managed audiovisual production for events, including setup and operation of lighting, sound, and LED systems, 
+    ensuring high-quality experiences for clients.  
+  - Project Management: Coordinated with clients to understand their requirements, provided regular updates, and delivered projects 
+    on time and within budget.
+  - Technical Support: Offered ongoing maintenance and support for websites and audiovisual setups, troubleshooting issues and 
+    implementing improvements as needed.
+  - Collaboration: Worked with cross-functional teams and clients to deliver cohesive and effective design and technical solutions.
+ 
+- 💼 **Kelle Z Riley LLC/ Mobile Developer**
+  - August 2023- May 2024
+  - Self-taught Godot and Python, leading the full development of a match-3 mobile game for Kelle Z Riley LLC.
+  - Designed and implemented front-end animations and backend functionality, ensuring a visually appealing and robust user 
+    experience.
+  - Conducted weekly Scrum meetings and collaborated with the team to ensure seamless project progress and client satisfaction. 
+    
 - 💼 **Tech Bird Consultant - Internship**
-  - IT Consultant
+  - IT Consultant and Network Engineering Specialist
   - April 2023 - August 2023
   - Murfreesboro, TN
+  - Provided exemplary IT consulting, managed services, cybersecurity, and network engineering solutions to 15 different companies, 
+    and meticulously tracked their assets and operations.
+  - Provide detailed weekly and monthly status reports to management for IT services.
+  - Worked closely with a certified team of 2 experts to guarantee client satisfaction and deliver exceptional service quality
 
 - 💼 **nLync - Internship**
   - Professional Tax Software company
   - December 2022
   - Murfreesboro, TN
+  - Discussed various software plans with clients.
+  - Utilized 1040 Help Desk for client support.
+  - Examined code and future initiatives for the company.
+  - Analyzed multiple tax forms as part of research and planning activities. Star problem solving
 
 ## Education
 
